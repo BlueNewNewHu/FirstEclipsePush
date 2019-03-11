@@ -1,7 +1,7 @@
 package cn.test.huhu;
 /**
  * a test
- * ÖĞÎÄÂÒÂëÃ´£¿£¿£¿
+ * ä¸­æ–‡æµ‹è¯•ä¹±ç ï¼Ÿï¼Ÿï¼Ÿ
  * @author bluehuhu
  * 
  */
