@@ -1,6 +1,6 @@
 package cn.test.huhu;
 /**
- * a test
+ * a test aaa
  * 中文测试乱码？？？
  * @author bluehuhu
  * 
